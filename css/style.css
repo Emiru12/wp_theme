@@ -1,0 +1,62 @@
+body{
+    background-color:#f5f5f5;
+   
+}
+＃container{
+    width:1000px;
+    margin: 0 auto;
+}
+#container header{
+    margin-bottom:80px;
+}
+p.headee{
+    font-size:20pt;
+}
+a.link{
+
+    text-decoration: underline;
+    color:blue;
+}
+.gazou{
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    margin-bottom: 30px;
+}
+h2{
+    margin-top: 50px;
+}
+#boxes{
+    margin:0 30px;
+}
+p.box{
+    background-color: #ffffff;
+    margin-top:30px;
+
+    padding-left:40px
+}
+div.imagebox{
+    border: 1px solid #ffffff;
+    max-width:436px;
+    height:400px;
+    margin:0 auto;
+    float: left;
+    padding:10px;
+}
+p.image{
+    text-align: center;
+  
+    max-width:416px;
+}
+p.caption{
+    font-size:120%;
+    margin:10px;
+}
+p.coment,.imagebox a{
+    margin:10px;
+}
+
+footer{
+    padding-top:50px;
+}
